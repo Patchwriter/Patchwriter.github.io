@@ -10,7 +10,7 @@ Patchwriting: _"copying from a source text and then deleting some words, alterin
 I love rewriting because that is where and how you discover the story.[^CL] I can't understand how anyone can write without rewriting everything over and over again.[^LT] There is no such thing as good writing, only good rewriting.[^RG] __So,__ it is perfectly okay to write garbage -- as long as you edit brilliantly.[^CJC] __In fact, as__ nothing is said that hasn't been said before,[^T] __and__ nothing is new except arrangement,[^WD] when a thing has been said and said well, have no scruple. Take it and copy it.[^AF] __Remember,__ those who do not want to imitate anything, produce nothing.[^SD] __And__ through others we become ourselves.[^LV]
 
 
-_"Plagiarism is necessary. Progress implies it. It holds tight an author's phrase, uses his expressions, eliminates a false idea, and replaces it with just the right idea."_ (Comte de LautrÃ©amont)
+
 
 _"Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different."_ (T.S. Eliot, The Sacred Wood)
 
